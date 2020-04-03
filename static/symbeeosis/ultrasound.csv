@@ -1,0 +1,12 @@
+﻿Sample;pH;Refractive Index %;Total microbial count;Yeasts and moulds;Antioxidant activity DPPH (μg/mL trolox);Antioxidant activity ABTS (μg/mL trolox);Total phenolic content, TPC (μg/mL gallic acid);Total flavonoid content, TFC (μg/mL quercetin);Toxicity on skin cells (MTT assay);Gene expression (SIRT1) on skin cells
+1;5.89;18.93;<10;<10;4.31;12.38;5.96;12.24
+2;5.82;18.88;<10;<10;4.18;12.36;6.81;11.15
+4;4.03;19.07;<10;<10;6.05;12.34;10.28;24.6
+5;4.9;19.26;<10;<10;10.97;12.59;18.23;28.85
+7;4.51;19.08;<10;<10;8.74;12.71;14.35;24.46
+8;4.26;19.15;<10;<10;6.49;12.02;18.47;33.09
+9;3.95;19.13;<10;<10;4.82;12.07;12.4;25.87
+10;4.6;19;<10;<10;11.1;12.75;18.02;29.7
+11;4.44;18.99;<10;<10;6.52;12.6;12.48;26.61
+12;4.35;19.17;<10;<10;12.82;12.74;15.21;25.54
+13;4.55;19.18;<10;<10;14.29;12.32;17.19;29.25

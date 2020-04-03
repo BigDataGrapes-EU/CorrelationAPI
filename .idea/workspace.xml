@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ec94262-678c-4205-af57-84a340dbf641" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>samples.csv</find>
+      <find>ultras</find>
+      <find>interval_from_minvalue_observation_date_until_the_crop_date</find>
+      <find>samples.cs</find>
+      <find>parcel_date_crop_dict</find>
+      <find>plt.figure(figsize=(19, 9))</find>
+      <find>plt.show</find>
+      <find>savefig</find>
+      <find>static/</find>
+      <find>import</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1P0h23IznPy52sEqnRpxZdSpFhh" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/symbeeosis" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CorrelationAPI" type="Python.FlaskServer">
+      <module name="CorrelationAPI" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ec94262-678c-4205-af57-84a340dbf641" name="Default Changelist" comment="" />
+      <created>1559118601888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559118601888</updated>
+      <workItem from="1559118603372" duration="421000" />
+      <workItem from="1559119763114" duration="4169000" />
+      <workItem from="1559203514090" duration="2375000" />
+      <workItem from="1559569118406" duration="14000" />
+      <workItem from="1559636738211" duration="2646000" />
+      <workItem from="1559722468335" duration="1427000" />
+      <workItem from="1559816010635" duration="241000" />
+      <workItem from="1560161224654" duration="1508000" />
+      <workItem from="1560496146015" duration="991000" />
+      <workItem from="1560683461408" duration="2819000" />
+      <workItem from="1561454746772" duration="2450000" />
+      <workItem from="1565016711939" duration="9000" />
+      <workItem from="1567425806100" duration="1692000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="608" y="292" width="704" height="520" key="find.popup" timestamp="1585923748893">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="608" y="292" width="704" height="520" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1585923748893" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CorrelationAPI$CorrelationAPI.coverage" NAME="CorrelationAPI Coverage Results" MODIFIED="1567426230506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
